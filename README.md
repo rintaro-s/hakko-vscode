@@ -9,6 +9,10 @@
 これはhakko aiを使用するvscodeの拡張機能です。一応個人的には使用許可はとっていますが、まぁ自己責任でおねがいします。
 
 
+
+https://github.com/user-attachments/assets/bb0072e7-1b42-44e1-bda9-a9db745af07d
+
+
 仕組みとしては、vscodeの拡張機能からpyを呼んで、スクショとって、ocrして、deepseek(ローカルのプログラミング得意LLM)で抜粋&編集して、vscodeの拡張機能に投げて、ファイルに書き込んでいます。
 
 

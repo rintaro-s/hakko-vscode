@@ -61,3 +61,11 @@ https://github.com/user-attachments/assets/bb0072e7-1b42-44e1-bda9-a9db745af07d
     ```
 
 14. VSCodeのコマンドパレット（Ctrl+Shift+P）を開き、extension.optimizeCodeコマンドを実行する。
+
+
+## 蛇足
+
+hakko aiの安全性については前から疑われていますが、hakko ai事態は安全だと思っています。
+
+
+ただbytedance（Volcano Engine）にメインサーバーがあると思うので機密情報は送らないほうがいいかも...?
